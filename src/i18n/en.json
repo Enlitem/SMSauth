@@ -1,0 +1,25 @@
+{
+    "titles": {
+        "number": "Enter your phone number",
+        "code": "Enter the code"
+    },
+    "subtitles": {
+        "number": "To log in or register",
+        "code": "Sent by number"
+    },
+    "placeholders": {
+        "country": "Country",
+        "number": "Phone number",
+        "codeMethod": "Method of code receiving",
+        "enterCode": "Enter the code"
+    },
+    "buttons": {
+        "continue": "Continue",
+        "back": "Back",
+        "auth": "Log in to the bot",
+        "checkStatus": "Check the status"
+    },
+    "conditions": "Conditions",
+    "confidentiality": "Confidentiality",
+    "language": "English"
+}
