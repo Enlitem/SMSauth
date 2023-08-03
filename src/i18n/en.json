@@ -11,7 +11,8 @@
         "country": "Country",
         "number": "Phone number",
         "codeMethod": "Method of code receiving",
-        "enterCode": "Enter the code"
+        "enterCode": "Enter the code",
+        "search": "Search"
     },
     "buttons": {
         "continue": "Continue",

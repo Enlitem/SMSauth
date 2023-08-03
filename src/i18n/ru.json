@@ -11,7 +11,8 @@
         "country": "Страна",
         "number": "Номер телефона",
         "codeMethod": "Способ получения кода",
-        "enterCode": "Введите код"
+        "enterCode": "Введите код",
+        "search": "Поиск"
     },
     "buttons": {
         "continue": "Продолжить",

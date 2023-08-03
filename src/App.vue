@@ -1,7 +1,11 @@
-<script setup></script>
-
 <template>
-  <div></div>
+  <div class="flex justify-center items-center h-screen">
+    <Auth></Auth>
+  </div>
 </template>
 
-<style scoped></style>
+<script setup>
+import Auth from './components/AppAuth.vue'
+
+</script>
+
